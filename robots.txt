@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://remarkable-puffpuff-1f905d.netlify.app/sitemap.xml
